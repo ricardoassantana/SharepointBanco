@@ -10,4 +10,4 @@ Diante desses desafios, surgiu a ideia de conectar as planilhas Excel localmente
 
 O próximo passo seria encontrar uma solução que permitisse automatizar o processo de atualização das planilhas antes de integrá-las ao banco de dados.
 
-A solução veio através do desenvolvimento de um script em Python, que possibilitou a conexão entre as planilhas Excel e o SharePoint. Essa abordagem permitiu que eu atualizasse as informações de maneira automática, eliminando a necessidade de intervenção manual ou com apenas um clique!
+A solução veio através do desenvolvimento de um script em Python, que possibilitou na atualização das planilhas Excel com os dados do SharePoint. Essa abordagem permitiu que eu atualizasse as informações de maneira automática, eliminando a necessidade de intervenção manual ou com apenas um clique!
