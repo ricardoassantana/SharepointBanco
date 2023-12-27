@@ -1,6 +1,7 @@
 ### SharepointBanco
 ## Desenvolvimento de Solução para Conexão Automática entre SharePoint e Banco de Dados
 
+![Solução Sharepoint para Banco](imagem_conexao.png)
 Ao enfrentar o desafio de conectar o SharePoint a um banco de dados de forma automática, deparei-me com uma barreira significativa: a falta de permissão para acessar a API do SharePoint diretamente, devido às restrições impostas pela TI. Esta limitação tornou-se um obstáculo crítico, uma vez que várias planilhas em Excel precisavam ser integradas ao banco para dar continuidade a um projeto essencial.
 
 Diante desses desafios, surgiu a ideia de conectar as planilhas Excel localmente armazenadas ao SharePoint. O próximo passo seria encontrar uma solução que permitisse automatizar o processo de atualização das planilhas antes de integrá-las ao banco de dados.
